@@ -1,4 +1,4 @@
-# barcode
+# Barcode
 
 A new Flutter project.
 
